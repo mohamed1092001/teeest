@@ -1,0 +1,23 @@
+form {
+    background: linear-gradient(gray, wheat, white);
+}
+
+::placeholder {
+    font-style: italic;
+}
+
+label {
+    font-style: oblique;
+
+}
+
+input {
+    border-radius: 20px;
+}
+#info{
+    font-family: "Edu AU VIC WA NT Pre", serif;
+}
+
+button{
+    cursor: help;
+}

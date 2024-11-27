@@ -1,0 +1,10 @@
+#button2 {
+    color: black;
+    border-radius: 10px;
+    box-shadow: 1px 2px .9px red;
+}
+
+#button2:hover {
+    color: red;
+    transform: translate(6px);
+}

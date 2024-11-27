@@ -1,0 +1,13 @@
+#imgg {
+    width: 300px;
+    filter: contrast(1.4);
+}
+
+.p-2 {
+    color: blue;
+    font-style: oblique;
+}
+.col-md-5{
+    color: black;
+    
+}
